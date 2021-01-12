@@ -4,7 +4,7 @@
 - 👨‍💻 I´m workgin as a teaching assistant in [DATA 1700 Web Programming](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1700/2020/HØST) at OsloMet
 - 📫 How to reach me: email me at s341833@oslomet.no && nicolai.molstad@gmail.com
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s341833" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s341833&show_icons=true&theme=dracula&layout=compact" />
 
 **Tools & Languages**
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <p align="left">  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>     <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 
-&theme=<THEME_NAME>
+
 
 - 🔭 I’m currently working on ...
 
