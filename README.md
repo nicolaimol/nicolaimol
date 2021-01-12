@@ -4,7 +4,7 @@
 - 👨‍💻 I´m workgin as a teaching assistant in DATA 1700 Webprogramming at OsloMet
 - 📫 How to reach me: email me at s341833@oslomet.no && nicolai.molstad@gmail.com
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s34183" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s341833" />
 
 **Tools & Languages**
 
