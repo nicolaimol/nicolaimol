@@ -44,15 +44,15 @@
 </a>
 <br><br>
 <a href="https://www.linux.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="linux" align="left" width="26"/> 
+</a>
+<a href="https://www.linux.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" align="left" width="26"/> 
 </a>
 <a href="" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" align="left" width="26"/> 
 </a>
-<br>
-<a href="" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="26" align="left"/> 
-</a>
+<br><br>
 <a href="" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" align="left" width="26"/> 
 </a>
@@ -61,6 +61,9 @@
 </a>
 <a href="" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" align="left" width="26"/> 
+</a>
+<a href="" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="26" align="left"/> 
 </a>
 <br><br>
 <a href="https://www.jetbrains.com/idea/">
