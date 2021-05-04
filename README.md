@@ -11,7 +11,10 @@
 **Tools & Languages**
 
 <a href="https://github.com/s341833/Algoritmer-og-Datastrukturer">
-    <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" align="left" alt="Java" width="26px" />
+</a>
+<a href="https://github.com/s341833">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="left" alt="Javascript" width="26px" />
 </a>
 <a href="https://github.com/s341833">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" align="left" alt="Matlab" width="26px" />
@@ -32,14 +35,14 @@
 <a href="" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquert" align="left" width="26"/> 
 </a>
-<br>
+<br><br>
 <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" align="left"/> 
 </a>
 <a href="" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26" align="left"/> 
 </a>
-<br>
+<br><br>
 <a href="https://www.linux.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" align="left" width="26"/> 
 </a>
@@ -59,7 +62,7 @@
 <a href="" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" align="left" width="26"/> 
 </a>
-<br>
+<br><br>
 <a href="https://www.jetbrains.com/idea/">
     <img align="left" alt="IntelliJ" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
 </a>
