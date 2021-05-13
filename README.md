@@ -4,9 +4,10 @@
 - 👨‍💻 I´m working as a teaching assistant in [DATA 1700 Web Programming](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1700/2020/HØST) at OsloMet
 - 📫 How to reach me: email me at s341833@oslomet.no && nicolai.molstad@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s341833&show_icons=true&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s341833&show_icons=true&theme=dracula)¨
+
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s341833&layout=compact&show_icons=true&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 **Tools & Languages**
 
