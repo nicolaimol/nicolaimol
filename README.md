@@ -2,15 +2,17 @@
 
 - 🌱 I’m currently learning backend programming in Java with Spring Boot framework, and frontend programming with React 
 - 👨‍💻 I´m working as a teaching assistant in [DATA 1700 Web Programming](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1700/2020/HØST) at OsloMet
-- 📫 How to reach me: email me at s341833@oslomet.no && nicolai.molstad@gmail.com
+- 📫 How to reach me: email me at s341833@oslomet.no && nicolai.molstad@gmail.com<a href="https://www.linkedin.com/in/nicolai-molstad-319719200/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" align="rigth" alt="Java" width="26px" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s341833&show_icons=true&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s341833&show_icons=true&theme=dracula)¨
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s341833&show_icons=true&theme=dracula&langs_count=20&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s341833&show_icons=true&theme=dracula&count_private=true)
 
 <br>
 
 **Tools & Languages**
-
+___
 <a href="https://github.com/s341833/Algoritmer-og-Datastrukturer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" align="left" alt="Java" width="26px" />
 </a>
@@ -18,10 +20,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="left" alt="Javascript" width="26px" />
 </a>
 <a href="https://github.com/s341833">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="left" alt="HTML" width="26px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="left" alt="HTML" width="26px" />
 </a>
 <a href="https://github.com/s341833">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="left" alt="CSS" width="26px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="left" alt="CSS" width="26px" />
 </a>
 <a href="https://github.com/s341833">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" align="left" alt="Matlab" width="26px" />
@@ -79,11 +81,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" align="left" width="26"/> 
 </a>
 <a href="" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="26" align="left"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="26" align="left"/> 
 </a>
 <br><br>
 <a href="https://www.jetbrains.com/idea/">
-    <img align="left" alt="IntelliJ" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" align="left" alt="IntelliJ" width="26px" />
 </a>
 <a href="" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg" alt="atom" align="left" width="26"/> 
