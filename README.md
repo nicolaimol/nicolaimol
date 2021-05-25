@@ -85,7 +85,7 @@ ___
 </a>
 <br><br>
 <a href="https://www.jetbrains.com/idea/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" align="left" alt="IntelliJ" width="26px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" align="left" alt="IntelliJ" width="26px" />
 </a>
 <a href="" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg" alt="atom" align="left" width="26"/> 
