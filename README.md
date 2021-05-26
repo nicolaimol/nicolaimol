@@ -91,7 +91,7 @@ ___
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg" alt="atom" align="left" width="26"/> 
 </a>
 <a href="" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="vs" align="left" width="26"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs" align="left" width="26"/> 
 </a>
 <!--
 **s341833/s341833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
