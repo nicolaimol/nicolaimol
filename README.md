@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning backend programming in Java with Spring Boot framework, and frontend programming with React 
-- 👨‍💻 I´m working as a teaching assistant in [DATA 1700 Web Programming](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1700/2020/HØST) at OsloMet
+- 🌱 I’m currently learning backend programming in C# wuith .net5, and frontend programming with Angular 
+- 👨‍💻 I´m working as a teaching assistant in [DATS2300 Algorithms and Datastructures](https://student.oslomet.no/studier/-/studieinfo/emne/DATS2300/2021/HØST) at OsloMet
 - 📫 How to reach me: email me at s341833@oslomet.no && nicolai.molstad@gmail.com<a href="https://www.linkedin.com/in/nicolai-molstad-319719200/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" align="rigth" alt="Java" width="26px" />
 </a>
