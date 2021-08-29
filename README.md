@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning backend programming in C# wuith .net5, and frontend programming with Angular 
+- 🌱 I’m currently learning backend programming in C# with .NET 5, and frontend programming with Angular 
 - 👨‍💻 I´m working as a teaching assistant in [DATS2300 Algorithms and Datastructures](https://student.oslomet.no/studier/-/studieinfo/emne/DATS2300/2021/HØST) at OsloMet
 - 📫 How to reach me: email me at s341833@oslomet.no && nicolai.molstad@gmail.com<a href="https://www.linkedin.com/in/nicolai-molstad-319719200/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" align="rigth" alt="Java" width="26px" />
@@ -77,9 +77,10 @@ ___
 <a href="" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" align="left" width="26"/> 
 </a>
+<!--
 <a href="" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" align="left" width="26"/> 
-</a>
+</a>-->
 <a href="" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="26" align="left"/> 
 </a>
