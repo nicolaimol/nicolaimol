@@ -6,7 +6,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" align="rigth" alt="Java" width="26px" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s341833&show_icons=true&langs_count=20&count_private=true&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s341833&show_icons=true&langs_count=20&count_private=true&layout=compact&hide=jupyter%20notebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s341833&show_icons=true&count_private=true)
 
 <br>
@@ -16,8 +16,14 @@ ___
 <a href="https://github.com/s341833/Algoritmer-og-Datastrukturer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" align="left" alt="Java" width="26px" />
 </a>
+<a href="https://github.com/s341833/Algoritmer-og-Datastrukturer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" align="left" alt="CSharp" width="26px" />
+</a>
 <a href="https://github.com/s341833">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="left" alt="Javascript" width="26px" />
+</a>
+<a href="https://github.com/s341833">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" align="left" alt="Typescript" width="26px" />
 </a>
 <a href="https://github.com/s341833">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="left" alt="HTML" width="26px" />
@@ -32,8 +38,14 @@ ___
 <a href="https://github.com/s341833/Todo-api">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" align="left" alt="Spring boot" width="26px" />
 </a>
+<a href="https://github.com/s341833/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" align="left" alt=".net core" width="26px" />
+</a>
 <a href="https://reactjs.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" align="left" width="26"/> 
+</a>
+<a href="https://reactjs.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" align="left" width="26"/> 
 </a>
 <a href="https://nodejs.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" align="left" width="26"/> 
