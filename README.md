@@ -96,6 +96,9 @@ ___
 <a href="" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="26" align="left"/> 
 </a>
+<a href="" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="26" align="left"/> 
+</a>
 <br><br>
 <a href="https://www.jetbrains.com/idea/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" align="left" alt="IntelliJ" width="26px" />
