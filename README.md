@@ -11,12 +11,72 @@
 
 <br>
 
+**Bachelorproject**
+___
+
+<a href="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" align="left" alt="Kotlin" width="26px" />
+</a>
+<a href="https://github.com/s341833/Todo-api">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" align="left" alt="Spring boot" width="26px" />
+</a>
+<br><br>
+<a href="https://github.com/s341833">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" align="left" alt="Typescript" width="26px" />
+</a>
+<a href="https://reactjs.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" align="left" width="26"/> 
+</a>
+<a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" align="left" width="26"/>
+</a>
+<a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" align="left" width="26"/>
+</a>
+<br><br>
+<a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" align="left"/> 
+</a>
+<a href="" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="26" align="left"/> 
+</a>
+<a href="" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postres" width="26" align="left"/> 
+</a>
+<br><br>
+<a href="" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="26" align="left"/> 
+</a>
+<a href="" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="26" align="left"/> 
+</a>
+<a href="" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="26" align="left"/> 
+</a>
+
+<br><br>
+
+<a href="" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="26" align="left"/> 
+</a>
+<a href="" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="26" align="left"/> 
+</a>
+<a href="" target="_blank"> 
+    <img src="https://design.jboss.org/keycloak/logo/images/keycloak_logo_600px.svg" alt="keycloak" width="26" align="left"/> 
+</a>
+
+
+
+<br>
+
+<!--
 **Tools & Languages**
 ___
 <a href="https://github.com/s341833/Algoritmer-og-Datastrukturer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" align="left" alt="Java" width="26px" />
 </a>
-<a href="https://github.com/s341833/Algoritmer-og-Datastrukturer">
+<a href="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" align="left" alt="CSharp" width="26px" />
 </a>
 <a href="https://github.com/s341833">
@@ -44,6 +104,9 @@ ___
 <a href="https://reactjs.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" align="left" width="26"/> 
 </a>
+<a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redix" align="left" width="26"/>
+</a>
 <a href="https://reactjs.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" align="left" width="26"/> 
 </a>
@@ -65,6 +128,9 @@ ___
 </a>
 <a href="" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26" align="left"/> 
+</a>
+<a href="" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="26" align="left"/> 
 </a>
 <br><br>
 <a href="https://www.linux.org/" target="_blank"> 
@@ -89,15 +155,20 @@ ___
 <a href="" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" align="left" width="26"/> 
 </a>
+-->
 <!--
 <a href="" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" align="left" width="26"/> 
 </a>-->
+<!--
 <a href="" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="26" align="left"/> 
 </a>
 <a href="" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="26" align="left"/> 
+</a>
+<a href="" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="26" align="left"/> 
 </a>
 <br><br>
 <a href="https://www.jetbrains.com/idea/">
@@ -109,6 +180,7 @@ ___
 <a href="" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs" align="left" width="26"/> 
 </a>
+-->
 <!--
 **s341833/s341833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
