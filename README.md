@@ -6,8 +6,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" align="rigth" alt="Java" width="26px" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s341833&show_icons=true&langs_count=20&count_private=true&layout=compact&hide=jupyter%20notebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s341833&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaimol&show_icons=true&langs_count=20&count_private=true&layout=compact&hide=jupyter%20notebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicolaimol&show_icons=true&count_private=true)
 
 <br>
 
@@ -17,11 +17,11 @@ ___
 <a href="">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" align="left" alt="Kotlin" width="26px" />
 </a>
-<a href="https://github.com/s341833/Todo-api">
+<a href="https://github.com/nicolaimol/Todo-api">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" align="left" alt="Spring boot" width="26px" />
 </a>
 <br><br>
-<a href="https://github.com/s341833">
+<a href="https://github.com/nicolaimol">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" align="left" alt="Typescript" width="26px" />
 </a>
 <a href="https://reactjs.org/" target="_blank"> 
@@ -73,32 +73,32 @@ ___
 <!--
 **Tools & Languages**
 ___
-<a href="https://github.com/s341833/Algoritmer-og-Datastrukturer">
+<a href="https://github.com/nicolaimol/Algoritmer-og-Datastrukturer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" align="left" alt="Java" width="26px" />
 </a>
 <a href="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" align="left" alt="CSharp" width="26px" />
 </a>
-<a href="https://github.com/s341833">
+<a href="https://github.com/nicolaimol">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="left" alt="Javascript" width="26px" />
 </a>
-<a href="https://github.com/s341833">
+<a href="https://github.com/nicolaimol">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" align="left" alt="Typescript" width="26px" />
 </a>
-<a href="https://github.com/s341833">
+<a href="https://github.com/nicolaimol">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="left" alt="HTML" width="26px" />
 </a>
-<a href="https://github.com/s341833">
+<a href="https://github.com/nicolaimol">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="left" alt="CSS" width="26px" />
 </a>
-<a href="https://github.com/s341833">
+<a href="https://github.com/nicolaimol">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" align="left" alt="Matlab" width="26px" />
 </a>
 <br><br>
-<a href="https://github.com/s341833/Todo-api">
+<a href="https://github.com/nicolaimol/Todo-api">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" align="left" alt="Spring boot" width="26px" />
 </a>
-<a href="https://github.com/s341833/">
+<a href="https://github.com/nicolaimol/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" align="left" alt=".net core" width="26px" />
 </a>
 <a href="https://reactjs.org/" target="_blank"> 
@@ -182,7 +182,7 @@ ___
 </a>
 -->
 <!--
-**s341833/s341833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nicolaimol/nicolaimol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
