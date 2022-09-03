@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-- 🌱 I’m currently working on bachelorproject with The Norwegian Meteorological Institute
-- 👨‍💻 I´m working as a teaching assistant in [DATA1700 Webprogramming](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1700/2021/HØST) at OsloMet
+- 👨‍💻 1st year student Computer Science Master’s degree programme – 2 years, main profile Artificial Intelligence, at Norwegian University of Science and Thecnology 
 - 📫 How to reach me: email me at nicolai.molstad@gmail.com<a href="https://www.linkedin.com/in/nicolai-molstad-319719200/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" align="rigth" alt="Java" width="26px" />
 </a>
@@ -11,6 +9,7 @@
 
 <br>
 
+<!--
 **Bachelorproject**
 ___
 
@@ -66,7 +65,7 @@ ___
     <img src="https://design.jboss.org/keycloak/logo/images/keycloak_logo_600px.svg" alt="keycloak" width="26" align="left"/> 
 </a>
 
-
+-->
 
 <br>
 
