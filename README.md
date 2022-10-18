@@ -3,10 +3,10 @@
 - 📫 How to reach me: email me at nicolai.molstad@gmail.com<a href="https://www.linkedin.com/in/nicolai-molstad-319719200/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" align="rigth" alt="Java" width="26px" />
 </a>
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaimol&show_icons=true&langs_count=20&count_private=true&layout=compact&hide=jupyter%20notebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicolaimol&show_icons=true&count_private=true)
-
+-->
 <br>
 
 <!--
