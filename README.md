@@ -4,10 +4,25 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" align="rigth" alt="Java" width="26px" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaimol&show_icons=true&langs_count=20&count_private=true&layout=compact&hide=jupyter%20notebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicolaimol&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaimol&show_icons=true&langs_count=20&count_private=true&layout=compact&hide=jupyter%20notebook,css,html&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicolaimol&show_icons=true&count_private=true&theme=transparent)
 
 <br>
+
+<a href="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" align="left" alt="Python" width="26px" />
+    
+<a href="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" align="left" alt="Pytorch" width="26px" />
+    
+<a href="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" align="left" alt="Jupyter" width="26px" />
+    
+<a href="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" align="left" alt="Numpy" width="26px" />
+    
+<a href="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" align="left" alt="Pandas" width="26px" />
 
 <!--
 **Bachelorproject**
