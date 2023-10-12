@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👨‍💻 1st year student Computer Science Master’s degree programme – 2 years, main profile Artificial Intelligence, at Norwegian University of Science and Technology 
+- 👨‍💻 2nd year student Computer Science Master’s degree programme – 2 years, main profile Artificial Intelligence, at Norwegian University of Science and Technology 
 - 📫 How to reach me: email me at nicolai.molstad@gmail.com<a href="https://www.linkedin.com/in/nicolai-molstad-319719200/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" align="rigth" alt="Java" width="26px" />
 </a>
